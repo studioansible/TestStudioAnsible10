@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: release_test_1
   author: AStudio
-  description: final test round before release
+  description: 2nd test round before release
   company: Astudio
   issue_tracker_url: '-'
   license: MIT
@@ -13,6 +13,9 @@ galaxy_info:
     - release
   platforms:
     - name: Ubuntu
+      versions:
+        - all
+    - name: Windows
       versions:
         - all
 dependencies: []
