@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: release_test_1
+  author: AStudio
+  description: final test round before release
+  company: Astudio
+  issue_tracker_url: '-'
+  license: MIT
+  min_ansible_version: '1.5'
+  min_ansible_container_version: '4.5'
+  github_branch: '-'
+  galaxy_tags:
+    - final
+    - release
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+dependencies: []
